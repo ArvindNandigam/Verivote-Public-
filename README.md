@@ -2,6 +2,9 @@
 
 VeriVote is a secure, transparent e‑voting platform that combines blockchain immutability with cloud services to provide verifiable, tamper‑resistant online polling. This repository is the public version; the production frontend is built and hosted from a private repository.
 
+Demo Link
+- https://drive.google.com/file/d/1ab2MMkxPOZBxovVzolgmflcb3DTUcXUx/view?usp=sharing
+
 Live frontend
 - https://verivote-frontend.netlify.app/
 
