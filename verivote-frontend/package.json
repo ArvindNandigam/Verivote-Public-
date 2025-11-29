@@ -16,7 +16,7 @@
     "amazon-qldb-driver-nodejs": "^3.1.0",
     "aws-sdk": "^2.1692.0",
     "axios": "^1.12.1",
-    "body-parser": "^2.2.0",
+    "body-parser": "^2.2.1",
     "chart.js": "^4.5.0",
     "cors": "^2.8.5",
     "docx": "^9.5.1",
