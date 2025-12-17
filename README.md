@@ -5,10 +5,10 @@ VeriVote is a secure, transparent e‑voting platform that combines blockchain i
 Demo Link
 - https://drive.google.com/file/d/1ab2MMkxPOZBxovVzolgmflcb3DTUcXUx/view?usp=sharing
 
-Live frontend
+Live frontend[The Chatbot in the Live link has been disabled because of costs]
 - https://verivote-frontend.netlify.app/
 
-Important deployment notes- The backend API is hosted on Render. The first request after an idle period may take ~30 seconds while the service cold‑boots.- This public repo does not contain private AWS credentials or some production secrets — use your own AWS keys and configuration when deploying. Do NOT commit secrets.
+Important deployment notes- The backend API is hosted on Render. The first request after an idle period may take ~30 seconds while the service cold‑boots.- This public repo does not contain private AWS credentials or some production secrets — use your own AWS keys and configuration when deploying. Do NOT commit secrets. 
 
 Key capabilities
 - Tamper‑evident vote recording via blockchain (smart contracts record votes).
